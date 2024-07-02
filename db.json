@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Hello World",
+      "author": "John Doe",
+      "date": "2016-01-01",
+      "content": "Hello, world!"
+    },
+    {
+      "id": "2",
+      "title": "Hello Again",
+      "author": "Jane Doe",
+      "date": "2016-01-02",
+      "content": "Hello, again!"
+    },
+    {
+      "id": "3",
+      "title": "Hello One More Time",
+      "author": "John Doe",
+      "date": "2016-01-03",
+      "content": "Hello, one more time!"
+    },
+    {
+      "id": "4",
+      "title": "Hello Yet Again",
+      "author": "Jane Doe",
+      "date": "2016-01-04",
+      "content": "Hello, yet again!"
+    },
+    {
+      "id": "5",
+      "title": "Hello One Last Time",
+      "author": "John Doe",
+      "date": "2016-01-05",
+      "content": "Hello, one last time!"
+    },
+    {
+      "id": "6",
+      "title": "Hello One More Time",
+      "author": "John Doe",
+      "date": "2016-01-03",
+      "content": "Hello, one more time!"
+    }
+  ]
+}
