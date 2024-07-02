@@ -7,10 +7,8 @@ export const postsApi = createApi({
 		baseUrl: "http://localhost:3000/"
 	}),
 	endpoints: (builder) => ({
-		getPosts: builder.query<Post[], null>({
+		getPosts: builder.query<Post[], number>({
 			query: (page = 1) => `posts?_page=${page}&_limit=3`,
 		})
 	})
 });
-
-export const { useGetPostsQuery} = postsApi;
